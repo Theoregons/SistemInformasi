@@ -13,7 +13,7 @@
     <link rel="stylesheet" type="text/css" href="js/vendor/codemirror/lib/codemirror.css?v=5.1.3">
     <link rel="stylesheet" type="text/css" href="js/vendor/codemirror/addon/hint/show-hint.css?v=5.1.3">
     <link rel="stylesheet" type="text/css" href="js/vendor/codemirror/addon/lint/lint.css?v=5.1.3">
-    <link rel="stylesheet" type="text/css" href="./themes/pmahomme/css/theme.css?v=5.1.3&nocache=1415328009ltr&server=1">
+    <link rel="stylesheet" type="text/css" href="./themes/pmahomme/css/theme.css?v=5.1.3&nocache=4054934653ltr&server=1">
     <link rel="stylesheet" type="text/css" href="./themes/pmahomme/css/printview.css?v=5.1.3" media="print" id="printcss">
     <title>localhost / 127.0.0.1 | phpMyAdmin 5.1.3</title>
     <script data-cfasync="false" type="text/javascript" src="js/vendor/jquery/jquery.min.js?v=5.1.3"></script>
@@ -56,7 +56,7 @@
 
 <script data-cfasync="false" type="text/javascript">
 // <![CDATA[
-CommonParams.setAll({common_query:"",opendb_url:"index.php?route=/database/structure",lang:"id",server:"1",table:"",db:"",token:"58417767372973212d51354b396e2f67",text_dir:"ltr",show_databases_navigation_as_tree:true,pma_text_default_tab:"Jelajahi",pma_text_left_default_tab:"Struktur",pma_text_left_default_tab2:false,LimitChars:"50",pftext:"P",confirm:true,LoginCookieValidity:"1440",session_gc_maxlifetime:"1440",logged_in:true,is_https:false,rootPath:"/phpmyadmin/",arg_separator:"&",PMA_VERSION:"5.1.3",auth_type:"config",user:"root"});
+CommonParams.setAll({common_query:"",opendb_url:"index.php?route=/database/structure",lang:"id",server:"1",table:"",db:"",token:"583e583a6575485d7c57587d487e607a",text_dir:"ltr",show_databases_navigation_as_tree:true,pma_text_default_tab:"Jelajahi",pma_text_left_default_tab:"Struktur",pma_text_left_default_tab2:false,LimitChars:"50",pftext:"P",confirm:true,LoginCookieValidity:"1440",session_gc_maxlifetime:"1440",logged_in:true,is_https:false,rootPath:"/phpmyadmin/",arg_separator:"&",PMA_VERSION:"5.1.3",auth_type:"config",user:"root"});
 var firstDayOfCalendar = '0';
 var themeImagePath = '.\/themes\/pmahomme\/img\/';
 var mysqlDocTemplate = '.\/url.php\u003Furl\u003Dhttps\u00253A\u00252F\u00252Fdev.mysql.com\u00252Fdoc\u00252Frefman\u00252F8.0\u00252Fen\u00252F\u002525s.html';
@@ -260,7 +260,7 @@ $(function() {
       </div>
       <div id="pma_navigation_tree" class="list_container synced highlight autoexpand">
 
-  <div class="pma_quick_warp"><div class="drop_list"><button title="Tabel terakhir" class="drop_button btn">Terbaru</button><ul id="pma_recent_list"><li class="warp_link"><a href="index.php?route=/table/recent-favorite&db=kasir&table=pelanggan">`kasir`.`pelanggan`</a></li><li class="warp_link"><a href="index.php?route=/table/recent-favorite&db=tikhealth&table=artikel">`tikhealth`.`artikel`</a></li><li class="warp_link"><a href="index.php?route=/table/recent-favorite&db=tikhealth&table=gambar_background">`tikhealth`.`gambar_background`</a></li><li class="warp_link"><a href="index.php?route=/table/recent-favorite&db=kasir&table=pesanan">`kasir`.`pesanan`</a></li><li class="warp_link"><a href="index.php?route=/table/recent-favorite&db=kasir&table=produk">`kasir`.`produk`</a></li><li class="warp_link"><a href="index.php?route=/table/recent-favorite&db=kasir&table=user">`kasir`.`user`</a></li><li class="warp_link"><a href="index.php?route=/table/recent-favorite&db=perpustakaan&table=buku">`perpustakaan`.`buku`</a></li><li class="warp_link"><a href="index.php?route=/table/recent-favorite&db=u5480206_kursusonline&table=voucher">`u5480206_kursusonline`.`voucher`</a></li><li class="warp_link"><a href="index.php?route=/table/recent-favorite&db=app&table=users">`app`.`users`</a></li><li class="warp_link"><a href="index.php?route=/table/recent-favorite&db=app&table=siswa">`app`.`siswa`</a></li></ul></div><div class="drop_list"><button title="Tabel favorit" class="drop_button btn">Favorit</button><ul id="pma_favorite_list"><li class="warp_link">Tidak ada tabel favorit terbaru.</li></ul></div><div class="clearfloat"></div></div>
+  <div class="pma_quick_warp"><div class="drop_list"><button title="Tabel terakhir" class="drop_button btn">Terbaru</button><ul id="pma_recent_list"><li class="warp_link"><a href="index.php?route=/table/recent-favorite&db=kasir&table=produk">`kasir`.`produk`</a></li><li class="warp_link"><a href="index.php?route=/table/recent-favorite&db=kasir&table=user">`kasir`.`user`</a></li><li class="warp_link"><a href="index.php?route=/table/recent-favorite&db=multi_user&table=user">`multi_user`.`user`</a></li><li class="warp_link"><a href="index.php?route=/table/recent-favorite&db=kasir&table=pelanggan">`kasir`.`pelanggan`</a></li><li class="warp_link"><a href="index.php?route=/table/recent-favorite&db=tikhealth&table=artikel">`tikhealth`.`artikel`</a></li><li class="warp_link"><a href="index.php?route=/table/recent-favorite&db=tikhealth&table=gambar_background">`tikhealth`.`gambar_background`</a></li><li class="warp_link"><a href="index.php?route=/table/recent-favorite&db=kasir&table=pesanan">`kasir`.`pesanan`</a></li><li class="warp_link"><a href="index.php?route=/table/recent-favorite&db=perpustakaan&table=buku">`perpustakaan`.`buku`</a></li><li class="warp_link"><a href="index.php?route=/table/recent-favorite&db=u5480206_kursusonline&table=voucher">`u5480206_kursusonline`.`voucher`</a></li><li class="warp_link"><a href="index.php?route=/table/recent-favorite&db=app&table=users">`app`.`users`</a></li></ul></div><div class="drop_list"><button title="Tabel favorit" class="drop_button btn">Favorit</button><ul id="pma_favorite_list"><li class="warp_link">Tidak ada tabel favorit terbaru.</li></ul></div><div class="clearfloat"></div></div>
 
 <div class="clearfloat"></div>
 
@@ -273,7 +273,7 @@ $(function() {
 
 <div id='pma_navigation_tree_content'>
   <ul>
-    <li class="first new_database italics"><div class='block'><i class='first'></i></div><div class="block second"><a href='index.php?route=/server/databases&server=1'><img src="themes/dot.gif" title="" alt="" class="icon ic_b_newdb"></a></div><a class='hover_show_full' href='index.php?route=/server/databases&server=1' title='Baru'>Baru</a><div class="clearfloat"></div></li><li class="database"><div class='block'><i></i><b></b><a class="expander" href='#'><span class="hide paths_nav" data-apath="cm9vdA==.YXBw" data-vpath="cm9vdA==.YXBw" data-pos="0"></span><img src="themes/dot.gif" title="Bentangkan/Tutup" alt="Bentangkan/Tutup" class="icon ic_b_plus"></a></div><div class="block second"><a href='index.php?route=/database/operations&amp;server=1&amp;db=app&amp;'><img src="themes/dot.gif" title="Operasi database" alt="Operasi database" class="icon ic_s_db"></a></div><a class='hover_show_full' href='index.php?route=/database/structure&server=1&amp;db=app' title='Struktur'>app</a><div class="clearfloat"></div></li><li class="database"><div class='block'><i></i><b></b><a class="expander" href='#'><span class="hide paths_nav" data-apath="cm9vdA==.Y29kZXRhbGVudGFfYXBwcw==" data-vpath="cm9vdA==.Y29kZXRhbGVudGFfYXBwcw==" data-pos="0"></span><img src="themes/dot.gif" title="Bentangkan/Tutup" alt="Bentangkan/Tutup" class="icon ic_b_plus"></a></div><div class="block second"><a href='index.php?route=/database/operations&amp;server=1&amp;db=codetalenta_apps&amp;'><img src="themes/dot.gif" title="Operasi database" alt="Operasi database" class="icon ic_s_db"></a></div><a class='hover_show_full' href='index.php?route=/database/structure&server=1&amp;db=codetalenta_apps' title='Struktur'>codetalenta_apps</a><div class="clearfloat"></div></li><li class="database"><div class='block'><i></i><b></b><a class="expander" href='#'><span class="hide paths_nav" data-apath="cm9vdA==.Y3J1ZGw=" data-vpath="cm9vdA==.Y3J1ZGw=" data-pos="0"></span><img src="themes/dot.gif" title="Bentangkan/Tutup" alt="Bentangkan/Tutup" class="icon ic_b_plus"></a></div><div class="block second"><a href='index.php?route=/database/operations&amp;server=1&amp;db=crudl&amp;'><img src="themes/dot.gif" title="Operasi database" alt="Operasi database" class="icon ic_s_db"></a></div><a class='hover_show_full' href='index.php?route=/database/structure&server=1&amp;db=crudl' title='Struktur'>crudl</a><div class="clearfloat"></div></li><li class="database"><div class='block'><i></i><b></b><a class="expander" href='#'><span class="hide paths_nav" data-apath="cm9vdA==.ZGF0YXNpc3dh" data-vpath="cm9vdA==.ZGF0YXNpc3dh" data-pos="0"></span><img src="themes/dot.gif" title="Bentangkan/Tutup" alt="Bentangkan/Tutup" class="icon ic_b_plus"></a></div><div class="block second"><a href='index.php?route=/database/operations&amp;server=1&amp;db=datasiswa&amp;'><img src="themes/dot.gif" title="Operasi database" alt="Operasi database" class="icon ic_s_db"></a></div><a class='hover_show_full' href='index.php?route=/database/structure&server=1&amp;db=datasiswa' title='Struktur'>datasiswa</a><div class="clearfloat"></div></li><li class="database"><div class='block'><i></i><b></b><a class="expander" href='#'><span class="hide paths_nav" data-apath="cm9vdA==.ZGJfbmV3cw==" data-vpath="cm9vdA==.ZGJfbmV3cw==" data-pos="0"></span><img src="themes/dot.gif" title="Bentangkan/Tutup" alt="Bentangkan/Tutup" class="icon ic_b_plus"></a></div><div class="block second"><a href='index.php?route=/database/operations&amp;server=1&amp;db=db_news&amp;'><img src="themes/dot.gif" title="Operasi database" alt="Operasi database" class="icon ic_s_db"></a></div><a class='hover_show_full' href='index.php?route=/database/structure&server=1&amp;db=db_news' title='Struktur'>db_news</a><div class="clearfloat"></div></li><li class="database"><div class='block'><i></i><b></b><a class="expander" href='#'><span class="hide paths_nav" data-apath="cm9vdA==.aW5mb3JtYXRpb25fc2NoZW1h" data-vpath="cm9vdA==.aW5mb3JtYXRpb25fc2NoZW1h" data-pos="0"></span><img src="themes/dot.gif" title="Bentangkan/Tutup" alt="Bentangkan/Tutup" class="icon ic_b_plus"></a></div><div class="block second"><a href='index.php?route=/database/operations&amp;server=1&amp;db=information_schema&amp;'><img src="themes/dot.gif" title="Operasi database" alt="Operasi database" class="icon ic_s_db"></a></div><a class='hover_show_full' href='index.php?route=/database/structure&server=1&amp;db=information_schema' title='Struktur'>information_schema</a><div class="clearfloat"></div></li><li class="database"><div class='block'><i></i><b></b><a class="expander" href='#'><span class="hide paths_nav" data-apath="cm9vdA==.aW52" data-vpath="cm9vdA==.aW52" data-pos="0"></span><img src="themes/dot.gif" title="Bentangkan/Tutup" alt="Bentangkan/Tutup" class="icon ic_b_plus"></a></div><div class="block second"><a href='index.php?route=/database/operations&amp;server=1&amp;db=inv&amp;'><img src="themes/dot.gif" title="Operasi database" alt="Operasi database" class="icon ic_s_db"></a></div><a class='hover_show_full' href='index.php?route=/database/structure&server=1&amp;db=inv' title='Struktur'>inv</a><div class="clearfloat"></div></li><li class="database"><div class='block'><i></i><b></b><a class="expander" href='#'><span class="hide paths_nav" data-apath="cm9vdA==.a2FzaXI=" data-vpath="cm9vdA==.a2FzaXI=" data-pos="0"></span><img src="themes/dot.gif" title="Bentangkan/Tutup" alt="Bentangkan/Tutup" class="icon ic_b_plus"></a></div><div class="block second"><a href='index.php?route=/database/operations&amp;server=1&amp;db=kasir&amp;'><img src="themes/dot.gif" title="Operasi database" alt="Operasi database" class="icon ic_s_db"></a></div><a class='hover_show_full' href='index.php?route=/database/structure&server=1&amp;db=kasir' title='Struktur'>kasir</a><div class="clearfloat"></div></li><li class="database"><div class='block'><i></i><b></b><a class="expander" href='#'><span class="hide paths_nav" data-apath="cm9vdA==.bGFyYTI=" data-vpath="cm9vdA==.bGFyYTI=" data-pos="0"></span><img src="themes/dot.gif" title="Bentangkan/Tutup" alt="Bentangkan/Tutup" class="icon ic_b_plus"></a></div><div class="block second"><a href='index.php?route=/database/operations&amp;server=1&amp;db=lara2&amp;'><img src="themes/dot.gif" title="Operasi database" alt="Operasi database" class="icon ic_s_db"></a></div><a class='hover_show_full' href='index.php?route=/database/structure&server=1&amp;db=lara2' title='Struktur'>lara2</a><div class="clearfloat"></div></li><li class="database"><div class='block'><i></i><b></b><a class="expander" href='#'><span class="hide paths_nav" data-apath="cm9vdA==.bXlzcWw=" data-vpath="cm9vdA==.bXlzcWw=" data-pos="0"></span><img src="themes/dot.gif" title="Bentangkan/Tutup" alt="Bentangkan/Tutup" class="icon ic_b_plus"></a></div><div class="block second"><a href='index.php?route=/database/operations&amp;server=1&amp;db=mysql&amp;'><img src="themes/dot.gif" title="Operasi database" alt="Operasi database" class="icon ic_s_db"></a></div><a class='hover_show_full' href='index.php?route=/database/structure&server=1&amp;db=mysql' title='Struktur'>mysql</a><div class="clearfloat"></div></li><li class="database"><div class='block'><i></i><b></b><a class="expander" href='#'><span class="hide paths_nav" data-apath="cm9vdA==.cGVyZm9ybWFuY2Vfc2NoZW1h" data-vpath="cm9vdA==.cGVyZm9ybWFuY2Vfc2NoZW1h" data-pos="0"></span><img src="themes/dot.gif" title="Bentangkan/Tutup" alt="Bentangkan/Tutup" class="icon ic_b_plus"></a></div><div class="block second"><a href='index.php?route=/database/operations&amp;server=1&amp;db=performance_schema&amp;'><img src="themes/dot.gif" title="Operasi database" alt="Operasi database" class="icon ic_s_db"></a></div><a class='hover_show_full' href='index.php?route=/database/structure&server=1&amp;db=performance_schema' title='Struktur'>performance_schema</a><div class="clearfloat"></div></li><li class="database"><div class='block'><i></i><b></b><a class="expander" href='#'><span class="hide paths_nav" data-apath="cm9vdA==.cGVycHVzdGFrYWFu" data-vpath="cm9vdA==.cGVycHVzdGFrYWFu" data-pos="0"></span><img src="themes/dot.gif" title="Bentangkan/Tutup" alt="Bentangkan/Tutup" class="icon ic_b_plus"></a></div><div class="block second"><a href='index.php?route=/database/operations&amp;server=1&amp;db=perpustakaan&amp;'><img src="themes/dot.gif" title="Operasi database" alt="Operasi database" class="icon ic_s_db"></a></div><a class='hover_show_full' href='index.php?route=/database/structure&server=1&amp;db=perpustakaan' title='Struktur'>perpustakaan</a><div class="clearfloat"></div></li><li class="database"><div class='block'><i></i><b></b><a class="expander" href='#'><span class="hide paths_nav" data-apath="cm9vdA==.cGhwbXlhZG1pbg==" data-vpath="cm9vdA==.cGhwbXlhZG1pbg==" data-pos="0"></span><img src="themes/dot.gif" title="Bentangkan/Tutup" alt="Bentangkan/Tutup" class="icon ic_b_plus"></a></div><div class="block second"><a href='index.php?route=/database/operations&amp;server=1&amp;db=phpmyadmin&amp;'><img src="themes/dot.gif" title="Operasi database" alt="Operasi database" class="icon ic_s_db"></a></div><a class='hover_show_full' href='index.php?route=/database/structure&server=1&amp;db=phpmyadmin' title='Struktur'>phpmyadmin</a><div class="clearfloat"></div></li><li class="database"><div class='block'><i></i><b></b><a class="expander" href='#'><span class="hide paths_nav" data-apath="cm9vdA==.c2thcmlnYQ==" data-vpath="cm9vdA==.c2thcmlnYQ==" data-pos="0"></span><img src="themes/dot.gif" title="Bentangkan/Tutup" alt="Bentangkan/Tutup" class="icon ic_b_plus"></a></div><div class="block second"><a href='index.php?route=/database/operations&amp;server=1&amp;db=skariga&amp;'><img src="themes/dot.gif" title="Operasi database" alt="Operasi database" class="icon ic_s_db"></a></div><a class='hover_show_full' href='index.php?route=/database/structure&server=1&amp;db=skariga' title='Struktur'>skariga</a><div class="clearfloat"></div></li><li class="database"><div class='block'><i></i><b></b><a class="expander" href='#'><span class="hide paths_nav" data-apath="cm9vdA==.dGFiZWxfc2lzd2E=" data-vpath="cm9vdA==.dGFiZWxfc2lzd2E=" data-pos="0"></span><img src="themes/dot.gif" title="Bentangkan/Tutup" alt="Bentangkan/Tutup" class="icon ic_b_plus"></a></div><div class="block second"><a href='index.php?route=/database/operations&amp;server=1&amp;db=tabel_siswa&amp;'><img src="themes/dot.gif" title="Operasi database" alt="Operasi database" class="icon ic_s_db"></a></div><a class='hover_show_full' href='index.php?route=/database/structure&server=1&amp;db=tabel_siswa' title='Struktur'>tabel_siswa</a><div class="clearfloat"></div></li><li class="database"><div class='block'><i></i><b></b><a class="expander" href='#'><span class="hide paths_nav" data-apath="cm9vdA==.dGVzaGVhbHRo" data-vpath="cm9vdA==.dGVzaGVhbHRo" data-pos="0"></span><img src="themes/dot.gif" title="Bentangkan/Tutup" alt="Bentangkan/Tutup" class="icon ic_b_plus"></a></div><div class="block second"><a href='index.php?route=/database/operations&amp;server=1&amp;db=teshealth&amp;'><img src="themes/dot.gif" title="Operasi database" alt="Operasi database" class="icon ic_s_db"></a></div><a class='hover_show_full' href='index.php?route=/database/structure&server=1&amp;db=teshealth' title='Struktur'>teshealth</a><div class="clearfloat"></div></li><li class="database"><div class='block'><i></i><b></b><a class="expander" href='#'><span class="hide paths_nav" data-apath="cm9vdA==.dGVza2FyaXNtYQ==" data-vpath="cm9vdA==.dGVza2FyaXNtYQ==" data-pos="0"></span><img src="themes/dot.gif" title="Bentangkan/Tutup" alt="Bentangkan/Tutup" class="icon ic_b_plus"></a></div><div class="block second"><a href='index.php?route=/database/operations&amp;server=1&amp;db=teskarisma&amp;'><img src="themes/dot.gif" title="Operasi database" alt="Operasi database" class="icon ic_s_db"></a></div><a class='hover_show_full' href='index.php?route=/database/structure&server=1&amp;db=teskarisma' title='Struktur'>teskarisma</a><div class="clearfloat"></div></li><li class="database"><div class='block'><i></i><b></b><a class="expander" href='#'><span class="hide paths_nav" data-apath="cm9vdA==.dGVzdA==" data-vpath="cm9vdA==.dGVzdA==" data-pos="0"></span><img src="themes/dot.gif" title="Bentangkan/Tutup" alt="Bentangkan/Tutup" class="icon ic_b_plus"></a></div><div class="block second"><a href='index.php?route=/database/operations&amp;server=1&amp;db=test&amp;'><img src="themes/dot.gif" title="Operasi database" alt="Operasi database" class="icon ic_s_db"></a></div><a class='hover_show_full' href='index.php?route=/database/structure&server=1&amp;db=test' title='Struktur'>test</a><div class="clearfloat"></div></li><li class="navGroup"><div class='block'><i></i><b></b><a class="expander loaded container" href='#'><span class="hide paths_nav" data-apath="cm9vdA==" data-vpath="cm9vdA==.dGlraGVhbHRo" data-pos="0"></span><img src="themes/dot.gif" title="Bentangkan/Tutup" alt="Bentangkan/Tutup" class="icon ic_b_plus"></a></div><i><div class="block second"><u><img src="themes/dot.gif" title="Groups" alt="Groups" class="icon ic_b_group"></u></div>&nbsp;tikhealth</i><div class="clearfloat"></div><div style='display: none;' class='list_container'><ul><li class="database database"><div class='block'><i></i><b></b><a class="expander" href='#'><span class="hide paths_nav" data-apath="cm9vdA==.dGlraGVhbHRo" data-vpath="cm9vdA==.dGlraGVhbHRo." data-pos="0"></span><img src="themes/dot.gif" title="Bentangkan/Tutup" alt="Bentangkan/Tutup" class="icon ic_b_plus"></a></div><div class="block second"><a href='index.php?route=/database/operations&amp;server=1&amp;db=tikhealth&amp;'><img src="themes/dot.gif" title="Operasi database" alt="Operasi database" class="icon ic_s_db"></a></div><a class='hover_show_full' href='index.php?route=/database/structure&server=1&amp;db=tikhealth' title='Struktur'>tikhealth</a><div class="clearfloat"></div></li><li class="database last database"><div class='block'><i></i><a class="expander" href='#'><span class="hide paths_nav" data-apath="cm9vdA==.dGlraGVhbHRoX2Ri" data-vpath="cm9vdA==.dGlraGVhbHRo.ZGI=" data-pos="0"></span><img src="themes/dot.gif" title="Bentangkan/Tutup" alt="Bentangkan/Tutup" class="icon ic_b_plus"></a></div><div class="block second"><a href='index.php?route=/database/operations&amp;server=1&amp;db=tikhealth_db&amp;'><img src="themes/dot.gif" title="Operasi database" alt="Operasi database" class="icon ic_s_db"></a></div><a class='hover_show_full' href='index.php?route=/database/structure&server=1&amp;db=tikhealth_db' title='Struktur'>tikhealth_db</a><div class="clearfloat"></div></li></ul></div></li><li class="database"><div class='block'><i></i><b></b><a class="expander" href='#'><span class="hide paths_nav" data-apath="cm9vdA==.dWtsYXJhdmVs" data-vpath="cm9vdA==.dWtsYXJhdmVs" data-pos="0"></span><img src="themes/dot.gif" title="Bentangkan/Tutup" alt="Bentangkan/Tutup" class="icon ic_b_plus"></a></div><div class="block second"><a href='index.php?route=/database/operations&amp;server=1&amp;db=uklaravel&amp;'><img src="themes/dot.gif" title="Operasi database" alt="Operasi database" class="icon ic_s_db"></a></div><a class='hover_show_full' href='index.php?route=/database/structure&server=1&amp;db=uklaravel' title='Struktur'>uklaravel</a><div class="clearfloat"></div></li><li class="last database"><div class='block'><i></i><a class="expander" href='#'><span class="hide paths_nav" data-apath="cm9vdA==.d3Bfa2FyaXNtYQ==" data-vpath="cm9vdA==.d3Bfa2FyaXNtYQ==" data-pos="0"></span><img src="themes/dot.gif" title="Bentangkan/Tutup" alt="Bentangkan/Tutup" class="icon ic_b_plus"></a></div><div class="block second"><a href='index.php?route=/database/operations&amp;server=1&amp;db=wp_karisma&amp;'><img src="themes/dot.gif" title="Operasi database" alt="Operasi database" class="icon ic_s_db"></a></div><a class='hover_show_full' href='index.php?route=/database/structure&server=1&amp;db=wp_karisma' title='Struktur'>wp_karisma</a><div class="clearfloat"></div></li>
+    <li class="first new_database italics"><div class='block'><i class='first'></i></div><div class="block second"><a href='index.php?route=/server/databases&server=1'><img src="themes/dot.gif" title="" alt="" class="icon ic_b_newdb"></a></div><a class='hover_show_full' href='index.php?route=/server/databases&server=1' title='Baru'>Baru</a><div class="clearfloat"></div></li><li class="database"><div class='block'><i></i><b></b><a class="expander" href='#'><span class="hide paths_nav" data-apath="cm9vdA==.YXBw" data-vpath="cm9vdA==.YXBw" data-pos="0"></span><img src="themes/dot.gif" title="Bentangkan/Tutup" alt="Bentangkan/Tutup" class="icon ic_b_plus"></a></div><div class="block second"><a href='index.php?route=/database/operations&amp;server=1&amp;db=app&amp;'><img src="themes/dot.gif" title="Operasi database" alt="Operasi database" class="icon ic_s_db"></a></div><a class='hover_show_full' href='index.php?route=/database/structure&server=1&amp;db=app' title='Struktur'>app</a><div class="clearfloat"></div></li><li class="database"><div class='block'><i></i><b></b><a class="expander" href='#'><span class="hide paths_nav" data-apath="cm9vdA==.Y29kZXRhbGVudGFfYXBwcw==" data-vpath="cm9vdA==.Y29kZXRhbGVudGFfYXBwcw==" data-pos="0"></span><img src="themes/dot.gif" title="Bentangkan/Tutup" alt="Bentangkan/Tutup" class="icon ic_b_plus"></a></div><div class="block second"><a href='index.php?route=/database/operations&amp;server=1&amp;db=codetalenta_apps&amp;'><img src="themes/dot.gif" title="Operasi database" alt="Operasi database" class="icon ic_s_db"></a></div><a class='hover_show_full' href='index.php?route=/database/structure&server=1&amp;db=codetalenta_apps' title='Struktur'>codetalenta_apps</a><div class="clearfloat"></div></li><li class="database"><div class='block'><i></i><b></b><a class="expander" href='#'><span class="hide paths_nav" data-apath="cm9vdA==.Y3J1ZGw=" data-vpath="cm9vdA==.Y3J1ZGw=" data-pos="0"></span><img src="themes/dot.gif" title="Bentangkan/Tutup" alt="Bentangkan/Tutup" class="icon ic_b_plus"></a></div><div class="block second"><a href='index.php?route=/database/operations&amp;server=1&amp;db=crudl&amp;'><img src="themes/dot.gif" title="Operasi database" alt="Operasi database" class="icon ic_s_db"></a></div><a class='hover_show_full' href='index.php?route=/database/structure&server=1&amp;db=crudl' title='Struktur'>crudl</a><div class="clearfloat"></div></li><li class="database"><div class='block'><i></i><b></b><a class="expander" href='#'><span class="hide paths_nav" data-apath="cm9vdA==.ZGF0YXNpc3dh" data-vpath="cm9vdA==.ZGF0YXNpc3dh" data-pos="0"></span><img src="themes/dot.gif" title="Bentangkan/Tutup" alt="Bentangkan/Tutup" class="icon ic_b_plus"></a></div><div class="block second"><a href='index.php?route=/database/operations&amp;server=1&amp;db=datasiswa&amp;'><img src="themes/dot.gif" title="Operasi database" alt="Operasi database" class="icon ic_s_db"></a></div><a class='hover_show_full' href='index.php?route=/database/structure&server=1&amp;db=datasiswa' title='Struktur'>datasiswa</a><div class="clearfloat"></div></li><li class="database"><div class='block'><i></i><b></b><a class="expander" href='#'><span class="hide paths_nav" data-apath="cm9vdA==.ZGJfbmV3cw==" data-vpath="cm9vdA==.ZGJfbmV3cw==" data-pos="0"></span><img src="themes/dot.gif" title="Bentangkan/Tutup" alt="Bentangkan/Tutup" class="icon ic_b_plus"></a></div><div class="block second"><a href='index.php?route=/database/operations&amp;server=1&amp;db=db_news&amp;'><img src="themes/dot.gif" title="Operasi database" alt="Operasi database" class="icon ic_s_db"></a></div><a class='hover_show_full' href='index.php?route=/database/structure&server=1&amp;db=db_news' title='Struktur'>db_news</a><div class="clearfloat"></div></li><li class="database"><div class='block'><i></i><b></b><a class="expander" href='#'><span class="hide paths_nav" data-apath="cm9vdA==.aW5mb3JtYXRpb25fc2NoZW1h" data-vpath="cm9vdA==.aW5mb3JtYXRpb25fc2NoZW1h" data-pos="0"></span><img src="themes/dot.gif" title="Bentangkan/Tutup" alt="Bentangkan/Tutup" class="icon ic_b_plus"></a></div><div class="block second"><a href='index.php?route=/database/operations&amp;server=1&amp;db=information_schema&amp;'><img src="themes/dot.gif" title="Operasi database" alt="Operasi database" class="icon ic_s_db"></a></div><a class='hover_show_full' href='index.php?route=/database/structure&server=1&amp;db=information_schema' title='Struktur'>information_schema</a><div class="clearfloat"></div></li><li class="database"><div class='block'><i></i><b></b><a class="expander" href='#'><span class="hide paths_nav" data-apath="cm9vdA==.aW52" data-vpath="cm9vdA==.aW52" data-pos="0"></span><img src="themes/dot.gif" title="Bentangkan/Tutup" alt="Bentangkan/Tutup" class="icon ic_b_plus"></a></div><div class="block second"><a href='index.php?route=/database/operations&amp;server=1&amp;db=inv&amp;'><img src="themes/dot.gif" title="Operasi database" alt="Operasi database" class="icon ic_s_db"></a></div><a class='hover_show_full' href='index.php?route=/database/structure&server=1&amp;db=inv' title='Struktur'>inv</a><div class="clearfloat"></div></li><li class="database"><div class='block'><i></i><b></b><a class="expander" href='#'><span class="hide paths_nav" data-apath="cm9vdA==.a2FzaXI=" data-vpath="cm9vdA==.a2FzaXI=" data-pos="0"></span><img src="themes/dot.gif" title="Bentangkan/Tutup" alt="Bentangkan/Tutup" class="icon ic_b_plus"></a></div><div class="block second"><a href='index.php?route=/database/operations&amp;server=1&amp;db=kasir&amp;'><img src="themes/dot.gif" title="Operasi database" alt="Operasi database" class="icon ic_s_db"></a></div><a class='hover_show_full' href='index.php?route=/database/structure&server=1&amp;db=kasir' title='Struktur'>kasir</a><div class="clearfloat"></div></li><li class="database"><div class='block'><i></i><b></b><a class="expander" href='#'><span class="hide paths_nav" data-apath="cm9vdA==.bGFyYTI=" data-vpath="cm9vdA==.bGFyYTI=" data-pos="0"></span><img src="themes/dot.gif" title="Bentangkan/Tutup" alt="Bentangkan/Tutup" class="icon ic_b_plus"></a></div><div class="block second"><a href='index.php?route=/database/operations&amp;server=1&amp;db=lara2&amp;'><img src="themes/dot.gif" title="Operasi database" alt="Operasi database" class="icon ic_s_db"></a></div><a class='hover_show_full' href='index.php?route=/database/structure&server=1&amp;db=lara2' title='Struktur'>lara2</a><div class="clearfloat"></div></li><li class="database"><div class='block'><i></i><b></b><a class="expander" href='#'><span class="hide paths_nav" data-apath="cm9vdA==.bXVsdGlfdXNlcg==" data-vpath="cm9vdA==.bXVsdGlfdXNlcg==" data-pos="0"></span><img src="themes/dot.gif" title="Bentangkan/Tutup" alt="Bentangkan/Tutup" class="icon ic_b_plus"></a></div><div class="block second"><a href='index.php?route=/database/operations&amp;server=1&amp;db=multi_user&amp;'><img src="themes/dot.gif" title="Operasi database" alt="Operasi database" class="icon ic_s_db"></a></div><a class='hover_show_full' href='index.php?route=/database/structure&server=1&amp;db=multi_user' title='Struktur'>multi_user</a><div class="clearfloat"></div></li><li class="database"><div class='block'><i></i><b></b><a class="expander" href='#'><span class="hide paths_nav" data-apath="cm9vdA==.bXlzcWw=" data-vpath="cm9vdA==.bXlzcWw=" data-pos="0"></span><img src="themes/dot.gif" title="Bentangkan/Tutup" alt="Bentangkan/Tutup" class="icon ic_b_plus"></a></div><div class="block second"><a href='index.php?route=/database/operations&amp;server=1&amp;db=mysql&amp;'><img src="themes/dot.gif" title="Operasi database" alt="Operasi database" class="icon ic_s_db"></a></div><a class='hover_show_full' href='index.php?route=/database/structure&server=1&amp;db=mysql' title='Struktur'>mysql</a><div class="clearfloat"></div></li><li class="database"><div class='block'><i></i><b></b><a class="expander" href='#'><span class="hide paths_nav" data-apath="cm9vdA==.cGVyZm9ybWFuY2Vfc2NoZW1h" data-vpath="cm9vdA==.cGVyZm9ybWFuY2Vfc2NoZW1h" data-pos="0"></span><img src="themes/dot.gif" title="Bentangkan/Tutup" alt="Bentangkan/Tutup" class="icon ic_b_plus"></a></div><div class="block second"><a href='index.php?route=/database/operations&amp;server=1&amp;db=performance_schema&amp;'><img src="themes/dot.gif" title="Operasi database" alt="Operasi database" class="icon ic_s_db"></a></div><a class='hover_show_full' href='index.php?route=/database/structure&server=1&amp;db=performance_schema' title='Struktur'>performance_schema</a><div class="clearfloat"></div></li><li class="database"><div class='block'><i></i><b></b><a class="expander" href='#'><span class="hide paths_nav" data-apath="cm9vdA==.cGVycHVzdGFrYWFu" data-vpath="cm9vdA==.cGVycHVzdGFrYWFu" data-pos="0"></span><img src="themes/dot.gif" title="Bentangkan/Tutup" alt="Bentangkan/Tutup" class="icon ic_b_plus"></a></div><div class="block second"><a href='index.php?route=/database/operations&amp;server=1&amp;db=perpustakaan&amp;'><img src="themes/dot.gif" title="Operasi database" alt="Operasi database" class="icon ic_s_db"></a></div><a class='hover_show_full' href='index.php?route=/database/structure&server=1&amp;db=perpustakaan' title='Struktur'>perpustakaan</a><div class="clearfloat"></div></li><li class="database"><div class='block'><i></i><b></b><a class="expander" href='#'><span class="hide paths_nav" data-apath="cm9vdA==.cGhwbXlhZG1pbg==" data-vpath="cm9vdA==.cGhwbXlhZG1pbg==" data-pos="0"></span><img src="themes/dot.gif" title="Bentangkan/Tutup" alt="Bentangkan/Tutup" class="icon ic_b_plus"></a></div><div class="block second"><a href='index.php?route=/database/operations&amp;server=1&amp;db=phpmyadmin&amp;'><img src="themes/dot.gif" title="Operasi database" alt="Operasi database" class="icon ic_s_db"></a></div><a class='hover_show_full' href='index.php?route=/database/structure&server=1&amp;db=phpmyadmin' title='Struktur'>phpmyadmin</a><div class="clearfloat"></div></li><li class="database"><div class='block'><i></i><b></b><a class="expander" href='#'><span class="hide paths_nav" data-apath="cm9vdA==.c2thcmlnYQ==" data-vpath="cm9vdA==.c2thcmlnYQ==" data-pos="0"></span><img src="themes/dot.gif" title="Bentangkan/Tutup" alt="Bentangkan/Tutup" class="icon ic_b_plus"></a></div><div class="block second"><a href='index.php?route=/database/operations&amp;server=1&amp;db=skariga&amp;'><img src="themes/dot.gif" title="Operasi database" alt="Operasi database" class="icon ic_s_db"></a></div><a class='hover_show_full' href='index.php?route=/database/structure&server=1&amp;db=skariga' title='Struktur'>skariga</a><div class="clearfloat"></div></li><li class="database"><div class='block'><i></i><b></b><a class="expander" href='#'><span class="hide paths_nav" data-apath="cm9vdA==.dGFiZWxfc2lzd2E=" data-vpath="cm9vdA==.dGFiZWxfc2lzd2E=" data-pos="0"></span><img src="themes/dot.gif" title="Bentangkan/Tutup" alt="Bentangkan/Tutup" class="icon ic_b_plus"></a></div><div class="block second"><a href='index.php?route=/database/operations&amp;server=1&amp;db=tabel_siswa&amp;'><img src="themes/dot.gif" title="Operasi database" alt="Operasi database" class="icon ic_s_db"></a></div><a class='hover_show_full' href='index.php?route=/database/structure&server=1&amp;db=tabel_siswa' title='Struktur'>tabel_siswa</a><div class="clearfloat"></div></li><li class="database"><div class='block'><i></i><b></b><a class="expander" href='#'><span class="hide paths_nav" data-apath="cm9vdA==.dGVzaGVhbHRo" data-vpath="cm9vdA==.dGVzaGVhbHRo" data-pos="0"></span><img src="themes/dot.gif" title="Bentangkan/Tutup" alt="Bentangkan/Tutup" class="icon ic_b_plus"></a></div><div class="block second"><a href='index.php?route=/database/operations&amp;server=1&amp;db=teshealth&amp;'><img src="themes/dot.gif" title="Operasi database" alt="Operasi database" class="icon ic_s_db"></a></div><a class='hover_show_full' href='index.php?route=/database/structure&server=1&amp;db=teshealth' title='Struktur'>teshealth</a><div class="clearfloat"></div></li><li class="database"><div class='block'><i></i><b></b><a class="expander" href='#'><span class="hide paths_nav" data-apath="cm9vdA==.dGVza2FyaXNtYQ==" data-vpath="cm9vdA==.dGVza2FyaXNtYQ==" data-pos="0"></span><img src="themes/dot.gif" title="Bentangkan/Tutup" alt="Bentangkan/Tutup" class="icon ic_b_plus"></a></div><div class="block second"><a href='index.php?route=/database/operations&amp;server=1&amp;db=teskarisma&amp;'><img src="themes/dot.gif" title="Operasi database" alt="Operasi database" class="icon ic_s_db"></a></div><a class='hover_show_full' href='index.php?route=/database/structure&server=1&amp;db=teskarisma' title='Struktur'>teskarisma</a><div class="clearfloat"></div></li><li class="database"><div class='block'><i></i><b></b><a class="expander" href='#'><span class="hide paths_nav" data-apath="cm9vdA==.dGVzdA==" data-vpath="cm9vdA==.dGVzdA==" data-pos="0"></span><img src="themes/dot.gif" title="Bentangkan/Tutup" alt="Bentangkan/Tutup" class="icon ic_b_plus"></a></div><div class="block second"><a href='index.php?route=/database/operations&amp;server=1&amp;db=test&amp;'><img src="themes/dot.gif" title="Operasi database" alt="Operasi database" class="icon ic_s_db"></a></div><a class='hover_show_full' href='index.php?route=/database/structure&server=1&amp;db=test' title='Struktur'>test</a><div class="clearfloat"></div></li><li class="navGroup"><div class='block'><i></i><b></b><a class="expander loaded container" href='#'><span class="hide paths_nav" data-apath="cm9vdA==" data-vpath="cm9vdA==.dGlraGVhbHRo" data-pos="0"></span><img src="themes/dot.gif" title="Bentangkan/Tutup" alt="Bentangkan/Tutup" class="icon ic_b_plus"></a></div><i><div class="block second"><u><img src="themes/dot.gif" title="Groups" alt="Groups" class="icon ic_b_group"></u></div>&nbsp;tikhealth</i><div class="clearfloat"></div><div style='display: none;' class='list_container'><ul><li class="database database"><div class='block'><i></i><b></b><a class="expander" href='#'><span class="hide paths_nav" data-apath="cm9vdA==.dGlraGVhbHRo" data-vpath="cm9vdA==.dGlraGVhbHRo." data-pos="0"></span><img src="themes/dot.gif" title="Bentangkan/Tutup" alt="Bentangkan/Tutup" class="icon ic_b_plus"></a></div><div class="block second"><a href='index.php?route=/database/operations&amp;server=1&amp;db=tikhealth&amp;'><img src="themes/dot.gif" title="Operasi database" alt="Operasi database" class="icon ic_s_db"></a></div><a class='hover_show_full' href='index.php?route=/database/structure&server=1&amp;db=tikhealth' title='Struktur'>tikhealth</a><div class="clearfloat"></div></li><li class="database last database"><div class='block'><i></i><a class="expander" href='#'><span class="hide paths_nav" data-apath="cm9vdA==.dGlraGVhbHRoX2Ri" data-vpath="cm9vdA==.dGlraGVhbHRo.ZGI=" data-pos="0"></span><img src="themes/dot.gif" title="Bentangkan/Tutup" alt="Bentangkan/Tutup" class="icon ic_b_plus"></a></div><div class="block second"><a href='index.php?route=/database/operations&amp;server=1&amp;db=tikhealth_db&amp;'><img src="themes/dot.gif" title="Operasi database" alt="Operasi database" class="icon ic_s_db"></a></div><a class='hover_show_full' href='index.php?route=/database/structure&server=1&amp;db=tikhealth_db' title='Struktur'>tikhealth_db</a><div class="clearfloat"></div></li></ul></div></li><li class="database"><div class='block'><i></i><b></b><a class="expander" href='#'><span class="hide paths_nav" data-apath="cm9vdA==.dWtsYXJhdmVs" data-vpath="cm9vdA==.dWtsYXJhdmVs" data-pos="0"></span><img src="themes/dot.gif" title="Bentangkan/Tutup" alt="Bentangkan/Tutup" class="icon ic_b_plus"></a></div><div class="block second"><a href='index.php?route=/database/operations&amp;server=1&amp;db=uklaravel&amp;'><img src="themes/dot.gif" title="Operasi database" alt="Operasi database" class="icon ic_s_db"></a></div><a class='hover_show_full' href='index.php?route=/database/structure&server=1&amp;db=uklaravel' title='Struktur'>uklaravel</a><div class="clearfloat"></div></li><li class="last database"><div class='block'><i></i><a class="expander" href='#'><span class="hide paths_nav" data-apath="cm9vdA==.d3Bfa2FyaXNtYQ==" data-vpath="cm9vdA==.d3Bfa2FyaXNtYQ==" data-pos="0"></span><img src="themes/dot.gif" title="Bentangkan/Tutup" alt="Bentangkan/Tutup" class="icon ic_b_plus"></a></div><div class="block second"><a href='index.php?route=/database/operations&amp;server=1&amp;db=wp_karisma&amp;'><img src="themes/dot.gif" title="Operasi database" alt="Operasi database" class="icon ic_s_db"></a></div><a class='hover_show_full' href='index.php?route=/database/structure&server=1&amp;db=wp_karisma' title='Struktur'>wp_karisma</a><div class="clearfloat"></div></li>
   </ul>
 </div>
 
@@ -284,7 +284,7 @@ $(function() {
                   <div id="pma_navigation_settings"><div class="page_settings"><form method="post" action="index.php&#x3F;route&#x3D;&#x25;2Fexport&amp;server&#x3D;1" class="config-form disableAjax">
   <input type="hidden" name="tab_hash" value="">
       <input type="hidden" name="check_page_refresh" id="check_page_refresh" value="">
-    <input type="hidden" name="token" value="58417767372973212d51354b396e2f67">
+    <input type="hidden" name="token" value="583e583a6575485d7c57587d487e607a">
   <input type="hidden" name="submit_save" value="Navi">
 <ul class="tabs responsivetable row">
       <li><a href="#Navi_panel">Panel navigasi</a></li>
@@ -561,8 +561,8 @@ $.extend(defaultValues, {
                     <span class="hide" id="instructions-1">
                         Press Enter to execute query                    </span>
                 </div>
-                                                            <div class="message history collapsed hide"
-                            targetdb="kasir" targettable="pesanan">
+                                                            <div class="message history collapsed hide select"
+                            targetdb="kasir" targettable="user">
                             <div class="action_content">
                     <span class="action collapse">
             Tampilkan
@@ -597,10 +597,10 @@ $.extend(defaultValues, {
                             : <span>Sesi saat ini</span>
                     </span>
             </div>
-                            <span class="query">ALTER TABLE `pesanan` DROP `id_user`;</span>
+                            <span class="query">SELECT * FROM `user`</span>
                         </div>
                                             <div class="message history collapsed hide select"
-                            targetdb="kasir" targettable="pesanan">
+                            targetdb="kasir" targettable="user">
                             <div class="action_content">
                     <span class="action collapse">
             Tampilkan
@@ -635,10 +635,10 @@ $.extend(defaultValues, {
                             : <span>Sesi saat ini</span>
                     </span>
             </div>
-                            <span class="query">SELECT * FROM `pesanan`</span>
+                            <span class="query">SELECT * FROM `user`</span>
                         </div>
                                             <div class="message history collapsed hide select"
-                            targetdb="kasir" targettable="pesanan">
+                            targetdb="kasir" targettable="produk">
                             <div class="action_content">
                     <span class="action collapse">
             Tampilkan
@@ -673,10 +673,10 @@ $.extend(defaultValues, {
                             : <span>Sesi saat ini</span>
                     </span>
             </div>
-                            <span class="query">SELECT * FROM `pesanan`</span>
+                            <span class="query">SELECT * FROM `produk`</span>
                         </div>
                                             <div class="message history collapsed hide select"
-                            targetdb="kasir" targettable="pesanan">
+                            targetdb="multi_user" targettable="user">
                             <div class="action_content">
                     <span class="action collapse">
             Tampilkan
@@ -704,17 +704,17 @@ $.extend(defaultValues, {
                     </span>
                             <span class="text targetdb">
             Basis data
-                            : <span>kasir</span>
+                            : <span>multi_user</span>
                     </span>
                             <span class="text query_time">
             Waktu eksekusi kueri
                             : <span>Sesi saat ini</span>
                     </span>
             </div>
-                            <span class="query">SELECT * FROM `pesanan`</span>
+                            <span class="query">SELECT * FROM `user`</span>
                         </div>
                                             <div class="message history collapsed hide select"
-                            targetdb="kasir" targettable="pesanan">
+                            targetdb="kasir" targettable="user">
                             <div class="action_content">
                     <span class="action collapse">
             Tampilkan
@@ -749,10 +749,10 @@ $.extend(defaultValues, {
                             : <span>Sesi saat ini</span>
                     </span>
             </div>
-                            <span class="query">SELECT * FROM `pesanan`</span>
+                            <span class="query">SELECT * FROM `user`</span>
                         </div>
                                             <div class="message history collapsed hide select"
-                            targetdb="kasir" targettable="pesanan">
+                            targetdb="kasir" targettable="user">
                             <div class="action_content">
                     <span class="action collapse">
             Tampilkan
@@ -787,10 +787,10 @@ $.extend(defaultValues, {
                             : <span>Sesi saat ini</span>
                     </span>
             </div>
-                            <span class="query">SELECT * FROM `pesanan`</span>
+                            <span class="query">SELECT * FROM `user`</span>
                         </div>
                                             <div class="message history collapsed hide select"
-                            targetdb="kasir" targettable="pesanan">
+                            targetdb="kasir" targettable="produk">
                             <div class="action_content">
                     <span class="action collapse">
             Tampilkan
@@ -825,10 +825,10 @@ $.extend(defaultValues, {
                             : <span>Sesi saat ini</span>
                     </span>
             </div>
-                            <span class="query">SELECT * FROM `pesanan`</span>
+                            <span class="query">SELECT * FROM `produk`</span>
                         </div>
                                             <div class="message history collapsed hide select"
-                            targetdb="kasir" targettable="pesanan">
+                            targetdb="kasir" targettable="produk">
                             <div class="action_content">
                     <span class="action collapse">
             Tampilkan
@@ -863,653 +863,7 @@ $.extend(defaultValues, {
                             : <span>Sesi saat ini</span>
                     </span>
             </div>
-                            <span class="query">SELECT * FROM `pesanan`</span>
-                        </div>
-                                            <div class="message history collapsed hide select"
-                            targetdb="kasir" targettable="pesanan">
-                            <div class="action_content">
-                    <span class="action collapse">
-            Tampilkan
-                    </span>
-                            <span class="action expand">
-            Buka
-                    </span>
-                            <span class="action requery">
-            Kueri ulang
-                    </span>
-                            <span class="action edit">
-            Ubah
-                    </span>
-                            <span class="action explain">
-            Jelaskan
-                    </span>
-                            <span class="action profiling">
-            Profil
-                    </span>
-                            <span class="action bookmark">
-            Bookmarks
-                    </span>
-                            <span class="text failed">
-            Kueri gagal
-                    </span>
-                            <span class="text targetdb">
-            Basis data
-                            : <span>kasir</span>
-                    </span>
-                            <span class="text query_time">
-            Waktu eksekusi kueri
-                            : <span>Sesi saat ini</span>
-                    </span>
-            </div>
-                            <span class="query">SELECT * FROM `pesanan`</span>
-                        </div>
-                                            <div class="message history collapsed hide select"
-                            targetdb="kasir" targettable="pesanan">
-                            <div class="action_content">
-                    <span class="action collapse">
-            Tampilkan
-                    </span>
-                            <span class="action expand">
-            Buka
-                    </span>
-                            <span class="action requery">
-            Kueri ulang
-                    </span>
-                            <span class="action edit">
-            Ubah
-                    </span>
-                            <span class="action explain">
-            Jelaskan
-                    </span>
-                            <span class="action profiling">
-            Profil
-                    </span>
-                            <span class="action bookmark">
-            Bookmarks
-                    </span>
-                            <span class="text failed">
-            Kueri gagal
-                    </span>
-                            <span class="text targetdb">
-            Basis data
-                            : <span>kasir</span>
-                    </span>
-                            <span class="text query_time">
-            Waktu eksekusi kueri
-                            : <span>Sesi saat ini</span>
-                    </span>
-            </div>
-                            <span class="query">SELECT * FROM `pesanan`</span>
-                        </div>
-                                            <div class="message history collapsed hide select"
-                            targetdb="kasir" targettable="pesanan">
-                            <div class="action_content">
-                    <span class="action collapse">
-            Tampilkan
-                    </span>
-                            <span class="action expand">
-            Buka
-                    </span>
-                            <span class="action requery">
-            Kueri ulang
-                    </span>
-                            <span class="action edit">
-            Ubah
-                    </span>
-                            <span class="action explain">
-            Jelaskan
-                    </span>
-                            <span class="action profiling">
-            Profil
-                    </span>
-                            <span class="action bookmark">
-            Bookmarks
-                    </span>
-                            <span class="text failed">
-            Kueri gagal
-                    </span>
-                            <span class="text targetdb">
-            Basis data
-                            : <span>kasir</span>
-                    </span>
-                            <span class="text query_time">
-            Waktu eksekusi kueri
-                            : <span>Sesi saat ini</span>
-                    </span>
-            </div>
-                            <span class="query">SELECT * FROM `pesanan`</span>
-                        </div>
-                                            <div class="message history collapsed hide select"
-                            targetdb="kasir" targettable="pesanan">
-                            <div class="action_content">
-                    <span class="action collapse">
-            Tampilkan
-                    </span>
-                            <span class="action expand">
-            Buka
-                    </span>
-                            <span class="action requery">
-            Kueri ulang
-                    </span>
-                            <span class="action edit">
-            Ubah
-                    </span>
-                            <span class="action explain">
-            Jelaskan
-                    </span>
-                            <span class="action profiling">
-            Profil
-                    </span>
-                            <span class="action bookmark">
-            Bookmarks
-                    </span>
-                            <span class="text failed">
-            Kueri gagal
-                    </span>
-                            <span class="text targetdb">
-            Basis data
-                            : <span>kasir</span>
-                    </span>
-                            <span class="text query_time">
-            Waktu eksekusi kueri
-                            : <span>Sesi saat ini</span>
-                    </span>
-            </div>
-                            <span class="query">SELECT * FROM `pesanan`</span>
-                        </div>
-                                            <div class="message history collapsed hide select"
-                            targetdb="kasir" targettable="pesanan">
-                            <div class="action_content">
-                    <span class="action collapse">
-            Tampilkan
-                    </span>
-                            <span class="action expand">
-            Buka
-                    </span>
-                            <span class="action requery">
-            Kueri ulang
-                    </span>
-                            <span class="action edit">
-            Ubah
-                    </span>
-                            <span class="action explain">
-            Jelaskan
-                    </span>
-                            <span class="action profiling">
-            Profil
-                    </span>
-                            <span class="action bookmark">
-            Bookmarks
-                    </span>
-                            <span class="text failed">
-            Kueri gagal
-                    </span>
-                            <span class="text targetdb">
-            Basis data
-                            : <span>kasir</span>
-                    </span>
-                            <span class="text query_time">
-            Waktu eksekusi kueri
-                            : <span>Sesi saat ini</span>
-                    </span>
-            </div>
-                            <span class="query">SELECT * FROM `pesanan`</span>
-                        </div>
-                                            <div class="message history collapsed hide select"
-                            targetdb="kasir" targettable="pelanggan">
-                            <div class="action_content">
-                    <span class="action collapse">
-            Tampilkan
-                    </span>
-                            <span class="action expand">
-            Buka
-                    </span>
-                            <span class="action requery">
-            Kueri ulang
-                    </span>
-                            <span class="action edit">
-            Ubah
-                    </span>
-                            <span class="action explain">
-            Jelaskan
-                    </span>
-                            <span class="action profiling">
-            Profil
-                    </span>
-                            <span class="action bookmark">
-            Bookmarks
-                    </span>
-                            <span class="text failed">
-            Kueri gagal
-                    </span>
-                            <span class="text targetdb">
-            Basis data
-                            : <span>kasir</span>
-                    </span>
-                            <span class="text query_time">
-            Waktu eksekusi kueri
-                            : <span>Sesi saat ini</span>
-                    </span>
-            </div>
-                            <span class="query">SELECT * FROM `pelanggan`</span>
-                        </div>
-                                            <div class="message history collapsed hide select"
-                            targetdb="kasir" targettable="pelanggan">
-                            <div class="action_content">
-                    <span class="action collapse">
-            Tampilkan
-                    </span>
-                            <span class="action expand">
-            Buka
-                    </span>
-                            <span class="action requery">
-            Kueri ulang
-                    </span>
-                            <span class="action edit">
-            Ubah
-                    </span>
-                            <span class="action explain">
-            Jelaskan
-                    </span>
-                            <span class="action profiling">
-            Profil
-                    </span>
-                            <span class="action bookmark">
-            Bookmarks
-                    </span>
-                            <span class="text failed">
-            Kueri gagal
-                    </span>
-                            <span class="text targetdb">
-            Basis data
-                            : <span>kasir</span>
-                    </span>
-                            <span class="text query_time">
-            Waktu eksekusi kueri
-                            : <span>Sesi saat ini</span>
-                    </span>
-            </div>
-                            <span class="query">SELECT * FROM `pelanggan`</span>
-                        </div>
-                                            <div class="message history collapsed hide select"
-                            targetdb="kasir" targettable="pelanggan">
-                            <div class="action_content">
-                    <span class="action collapse">
-            Tampilkan
-                    </span>
-                            <span class="action expand">
-            Buka
-                    </span>
-                            <span class="action requery">
-            Kueri ulang
-                    </span>
-                            <span class="action edit">
-            Ubah
-                    </span>
-                            <span class="action explain">
-            Jelaskan
-                    </span>
-                            <span class="action profiling">
-            Profil
-                    </span>
-                            <span class="action bookmark">
-            Bookmarks
-                    </span>
-                            <span class="text failed">
-            Kueri gagal
-                    </span>
-                            <span class="text targetdb">
-            Basis data
-                            : <span>kasir</span>
-                    </span>
-                            <span class="text query_time">
-            Waktu eksekusi kueri
-                            : <span>Sesi saat ini</span>
-                    </span>
-            </div>
-                            <span class="query">SELECT * FROM `pelanggan`</span>
-                        </div>
-                                            <div class="message history collapsed hide"
-                            targetdb="kasir" targettable="pelanggan">
-                            <div class="action_content">
-                    <span class="action collapse">
-            Tampilkan
-                    </span>
-                            <span class="action expand">
-            Buka
-                    </span>
-                            <span class="action requery">
-            Kueri ulang
-                    </span>
-                            <span class="action edit">
-            Ubah
-                    </span>
-                            <span class="action explain">
-            Jelaskan
-                    </span>
-                            <span class="action profiling">
-            Profil
-                    </span>
-                            <span class="action bookmark">
-            Bookmarks
-                    </span>
-                            <span class="text failed">
-            Kueri gagal
-                    </span>
-                            <span class="text targetdb">
-            Basis data
-                            : <span>kasir</span>
-                    </span>
-                            <span class="text query_time">
-            Waktu eksekusi kueri
-                            : <span>Sesi saat ini</span>
-                    </span>
-            </div>
-                            <span class="query">DELETE FROM pelanggan;</span>
-                        </div>
-                                            <div class="message history collapsed hide select"
-                            targetdb="kasir" targettable="pelanggan">
-                            <div class="action_content">
-                    <span class="action collapse">
-            Tampilkan
-                    </span>
-                            <span class="action expand">
-            Buka
-                    </span>
-                            <span class="action requery">
-            Kueri ulang
-                    </span>
-                            <span class="action edit">
-            Ubah
-                    </span>
-                            <span class="action explain">
-            Jelaskan
-                    </span>
-                            <span class="action profiling">
-            Profil
-                    </span>
-                            <span class="action bookmark">
-            Bookmarks
-                    </span>
-                            <span class="text failed">
-            Kueri gagal
-                    </span>
-                            <span class="text targetdb">
-            Basis data
-                            : <span>kasir</span>
-                    </span>
-                            <span class="text query_time">
-            Waktu eksekusi kueri
-                            : <span>Sesi saat ini</span>
-                    </span>
-            </div>
-                            <span class="query">SELECT * FROM `pelanggan`</span>
-                        </div>
-                                            <div class="message history collapsed hide"
-                            targetdb="kasir" targettable="pelanggan">
-                            <div class="action_content">
-                    <span class="action collapse">
-            Tampilkan
-                    </span>
-                            <span class="action expand">
-            Buka
-                    </span>
-                            <span class="action requery">
-            Kueri ulang
-                    </span>
-                            <span class="action edit">
-            Ubah
-                    </span>
-                            <span class="action explain">
-            Jelaskan
-                    </span>
-                            <span class="action profiling">
-            Profil
-                    </span>
-                            <span class="action bookmark">
-            Bookmarks
-                    </span>
-                            <span class="text failed">
-            Kueri gagal
-                    </span>
-                            <span class="text targetdb">
-            Basis data
-                            : <span>kasir</span>
-                    </span>
-                            <span class="text query_time">
-            Waktu eksekusi kueri
-                            : <span>Sesi saat ini</span>
-                    </span>
-            </div>
-                            <span class="query">ALTER TABLE `pelanggan` ADD PRIMARY KEY(`id_pelanggan`);</span>
-                        </div>
-                                            <div class="message history collapsed hide select"
-                            targetdb="kasir" targettable="pelanggan">
-                            <div class="action_content">
-                    <span class="action collapse">
-            Tampilkan
-                    </span>
-                            <span class="action expand">
-            Buka
-                    </span>
-                            <span class="action requery">
-            Kueri ulang
-                    </span>
-                            <span class="action edit">
-            Ubah
-                    </span>
-                            <span class="action explain">
-            Jelaskan
-                    </span>
-                            <span class="action profiling">
-            Profil
-                    </span>
-                            <span class="action bookmark">
-            Bookmarks
-                    </span>
-                            <span class="text failed">
-            Kueri gagal
-                    </span>
-                            <span class="text targetdb">
-            Basis data
-                            : <span>kasir</span>
-                    </span>
-                            <span class="text query_time">
-            Waktu eksekusi kueri
-                            : <span>Sesi saat ini</span>
-                    </span>
-            </div>
-                            <span class="query">SELECT * FROM `pelanggan`</span>
-                        </div>
-                                            <div class="message history collapsed hide select"
-                            targetdb="kasir" targettable="pelanggan">
-                            <div class="action_content">
-                    <span class="action collapse">
-            Tampilkan
-                    </span>
-                            <span class="action expand">
-            Buka
-                    </span>
-                            <span class="action requery">
-            Kueri ulang
-                    </span>
-                            <span class="action edit">
-            Ubah
-                    </span>
-                            <span class="action explain">
-            Jelaskan
-                    </span>
-                            <span class="action profiling">
-            Profil
-                    </span>
-                            <span class="action bookmark">
-            Bookmarks
-                    </span>
-                            <span class="text failed">
-            Kueri gagal
-                    </span>
-                            <span class="text targetdb">
-            Basis data
-                            : <span>kasir</span>
-                    </span>
-                            <span class="text query_time">
-            Waktu eksekusi kueri
-                            : <span>Sesi saat ini</span>
-                    </span>
-            </div>
-                            <span class="query">SELECT * FROM `pelanggan`</span>
-                        </div>
-                                            <div class="message history collapsed hide select"
-                            targetdb="kasir" targettable="pelanggan">
-                            <div class="action_content">
-                    <span class="action collapse">
-            Tampilkan
-                    </span>
-                            <span class="action expand">
-            Buka
-                    </span>
-                            <span class="action requery">
-            Kueri ulang
-                    </span>
-                            <span class="action edit">
-            Ubah
-                    </span>
-                            <span class="action explain">
-            Jelaskan
-                    </span>
-                            <span class="action profiling">
-            Profil
-                    </span>
-                            <span class="action bookmark">
-            Bookmarks
-                    </span>
-                            <span class="text failed">
-            Kueri gagal
-                    </span>
-                            <span class="text targetdb">
-            Basis data
-                            : <span>kasir</span>
-                    </span>
-                            <span class="text query_time">
-            Waktu eksekusi kueri
-                            : <span>Sesi saat ini</span>
-                    </span>
-            </div>
-                            <span class="query">SELECT * FROM `pelanggan`</span>
-                        </div>
-                                            <div class="message history collapsed hide select"
-                            targetdb="tikhealth" targettable="gambar_background">
-                            <div class="action_content">
-                    <span class="action collapse">
-            Tampilkan
-                    </span>
-                            <span class="action expand">
-            Buka
-                    </span>
-                            <span class="action requery">
-            Kueri ulang
-                    </span>
-                            <span class="action edit">
-            Ubah
-                    </span>
-                            <span class="action explain">
-            Jelaskan
-                    </span>
-                            <span class="action profiling">
-            Profil
-                    </span>
-                            <span class="action bookmark">
-            Bookmarks
-                    </span>
-                            <span class="text failed">
-            Kueri gagal
-                    </span>
-                            <span class="text targetdb">
-            Basis data
-                            : <span>tikhealth</span>
-                    </span>
-                            <span class="text query_time">
-            Waktu eksekusi kueri
-                            : <span>Sesi saat ini</span>
-                    </span>
-            </div>
-                            <span class="query">SELECT * FROM `gambar_background`</span>
-                        </div>
-                                            <div class="message history collapsed hide select"
-                            targetdb="tikhealth" targettable="artikel">
-                            <div class="action_content">
-                    <span class="action collapse">
-            Tampilkan
-                    </span>
-                            <span class="action expand">
-            Buka
-                    </span>
-                            <span class="action requery">
-            Kueri ulang
-                    </span>
-                            <span class="action edit">
-            Ubah
-                    </span>
-                            <span class="action explain">
-            Jelaskan
-                    </span>
-                            <span class="action profiling">
-            Profil
-                    </span>
-                            <span class="action bookmark">
-            Bookmarks
-                    </span>
-                            <span class="text failed">
-            Kueri gagal
-                    </span>
-                            <span class="text targetdb">
-            Basis data
-                            : <span>tikhealth</span>
-                    </span>
-                            <span class="text query_time">
-            Waktu eksekusi kueri
-                            : <span>Sesi saat ini</span>
-                    </span>
-            </div>
-                            <span class="query">SELECT * FROM `artikel`</span>
-                        </div>
-                                            <div class="message history collapsed hide select"
-                            targetdb="kasir" targettable="pelanggan">
-                            <div class="action_content">
-                    <span class="action collapse">
-            Tampilkan
-                    </span>
-                            <span class="action expand">
-            Buka
-                    </span>
-                            <span class="action requery">
-            Kueri ulang
-                    </span>
-                            <span class="action edit">
-            Ubah
-                    </span>
-                            <span class="action explain">
-            Jelaskan
-                    </span>
-                            <span class="action profiling">
-            Profil
-                    </span>
-                            <span class="action bookmark">
-            Bookmarks
-                    </span>
-                            <span class="text failed">
-            Kueri gagal
-                    </span>
-                            <span class="text targetdb">
-            Basis data
-                            : <span>kasir</span>
-                    </span>
-                            <span class="text query_time">
-            Waktu eksekusi kueri
-                            : <span>Sesi saat ini</span>
-                    </span>
-            </div>
-                            <span class="query">SELECT * FROM `pelanggan`</span>
+                            <span class="query">SELECT * FROM `produk`</span>
                         </div>
                                                 </div><!-- console_message_container -->
             <div class="query_input">
