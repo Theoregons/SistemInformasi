@@ -1,0 +1,51 @@
+.bg1{
+    background-image: url(img/bg1.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    width: 100px;
+    height: 100px;
+}
+
+.bg2{
+    background-image: url(img/circle.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    width: 500px;
+    height: 420px;
+}
+
+.bg-gray{
+    background-color: rgba(228, 169, 8, 0.351);
+}
+
+.slider {
+    width: 100%;
+    margin: 100px auto;
+}
+
+.slick-slide {
+  margin: 0px 20px;
+}
+
+.slick-slide img {
+  width: 100%;
+}
+
+.slick-prev:before,
+.slick-next:before {
+  color: black;
+}
+
+
+.slick-slide {
+  transition: all ease-in-out .3s;
+  opacity: .2;
+}
+
+.slick-active {
+  opacity: .5;
+}
+
+.slick-current {
+  opacity: 1;
+}
